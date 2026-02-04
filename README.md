@@ -1,4 +1,4 @@
-# README.md
+
 # Hi, I’m Enoch 👋
 
 🎓 Master’s Student in **Business Analytics**  
